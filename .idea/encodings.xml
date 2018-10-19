@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-consumer-group" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine-amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server-stream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+  </component>
+</project>

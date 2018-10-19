@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka/api-gateway-with-eureka.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka/api-gateway-with-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client/config-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git/config-server-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client/consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer/consul-consumer.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer/consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign/eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-api/eureka-feign-api.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-api/eureka-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-consumer/eureka-feign-consumer.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-consumer/eureka-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-client/eureka-feign-upload-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-client/eureka-feign-upload-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-server/eureka-feign-upload-server.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-feign-upload-server/eureka-feign-upload-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-consumer/hystrix-collapser-consumer.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-consumer/hystrix-collapser-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-provider/hystrix-collapser-provider.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-collapser-provider/hystrix-collapser-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/spring-cloud-dalston.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/spring-cloud-dalston.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-consumer-group/stream-consumer-group.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-consumer-group/stream-consumer-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-hello/stream-hello.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/stream-hello/stream-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-api-gateway/swagger-api-gateway.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-api-gateway/swagger-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-a/swagger-service-a.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-a/swagger-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-b/swagger-service-b.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/swagger-service-b/swagger-service-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-1/trace-1.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-1/trace-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-2/trace-2.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/trace-2/trace-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine/turbine.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine-amqp/turbine-amqp.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine-amqp/turbine-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server/zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server-stream/zipkin-server-stream.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server-stream/zipkin-server-stream.iml" />
+    </modules>
+  </component>
+</project>
