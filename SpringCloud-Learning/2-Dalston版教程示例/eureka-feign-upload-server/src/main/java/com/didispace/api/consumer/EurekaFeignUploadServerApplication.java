@@ -13,7 +13,7 @@ import org.springframework.web.multipart.MultipartFile;
 @EnableFeignClients
 @EnableDiscoveryClient
 @SpringBootApplication
-public class Application {
+public class EurekaFeignUploadServerApplication {
 
     @RestController
     public class UploadController {
@@ -26,7 +26,7 @@ public class Application {
     }
 
     public static void main(String[] args) {
-        new SpringApplicationBuilder(Application.class).web(true).run(args);
+        new SpringApplicationBuilder(EurekaFeignUploadServerApplication.class).web(true).run(args);
     }
 
 }

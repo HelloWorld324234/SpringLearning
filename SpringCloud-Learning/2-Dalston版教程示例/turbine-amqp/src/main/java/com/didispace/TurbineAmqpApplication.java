@@ -10,10 +10,10 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration
 @EnableTurbineStream
 @EnableDiscoveryClient
-public class TurbineApplication {
+public class TurbineAmqpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TurbineApplication.class, args);
+		SpringApplication.run(TurbineAmqpApplication.class, args);
 	}
 
 }

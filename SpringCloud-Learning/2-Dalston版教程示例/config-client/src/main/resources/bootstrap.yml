@@ -8,5 +8,5 @@ spring:
       label: master
 
 server:
-  port: 2001
+  port: 2006
 
