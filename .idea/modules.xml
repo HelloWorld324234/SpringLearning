@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka/api-gateway-with-eureka.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka/api-gateway-with-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client/config-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server/config-server.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git/config-server-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client/consul-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer/consul-consumer.iml" filepath="$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer/consul-consumer.iml" />

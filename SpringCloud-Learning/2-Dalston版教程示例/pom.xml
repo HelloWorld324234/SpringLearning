@@ -24,6 +24,7 @@
         <!--分布式配置中心-->
         <module>config-server-git</module>
         <module>config-client</module>
+        <module>config-server</module>
 
         <!--使用hystrix-->
         <module>eureka-consumer-ribbon-hystrix</module>

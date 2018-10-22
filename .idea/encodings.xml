@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/api-gateway-with-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/config-server-git" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/consul-consumer" charset="UTF-8" />
@@ -34,6 +35,5 @@
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/turbine-amqp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-Learning/2-Dalston版教程示例/zipkin-server-stream" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
   </component>
 </project>

@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
  */
 @EnableDiscoveryClient
 @SpringBootApplication
-public class EurekaServerApplication {
+public class EurekaConsumerApplication {
 
     @Bean
     public RestTemplate restTemplate() {
@@ -21,7 +21,7 @@ public class EurekaServerApplication {
     }
 
     public static void main(String[] args) {
-        new SpringApplicationBuilder(EurekaServerApplication.class).web(true).run(args);
+        new SpringApplicationBuilder(EurekaConsumerApplication.class).web(true).run(args);
     }
 
 }

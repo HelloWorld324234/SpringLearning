@@ -5,8 +5,13 @@ spring:
     config:
       uri: http://localhost:1201/
       profile: default
-      label: master
+      label: dev
 
 server:
-  port: 2006
+  port: 7002
+eureka:
+  client:
+    serviceUrl:
+      defauleZone: http://localhost:1111/eureka/
+
 

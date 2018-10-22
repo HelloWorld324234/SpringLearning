@@ -9,6 +9,7 @@
         <module name="api-gateway" />
         <module name="api-gateway-with-eureka" />
         <module name="config-client" />
+        <module name="config-server" />
         <module name="config-server-git" />
         <module name="consul-client" />
         <module name="consul-consumer" />
@@ -45,6 +46,7 @@
       <module name="api-gateway" target="1.8" />
       <module name="api-gateway-with-eureka" target="1.8" />
       <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="config-server-git" target="1.8" />
       <module name="consul-client" target="1.8" />
       <module name="consul-consumer" target="1.8" />
